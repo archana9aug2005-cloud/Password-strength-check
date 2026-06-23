@@ -138,7 +138,9 @@
 
 <script>
 
-function validateEmail(){
+
+    
+    function validateEmail(){
     var email = document.getElementById("email").value;
     var emailError = document.getElementById("emailError");
 
